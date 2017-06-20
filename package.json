@@ -1,0 +1,8 @@
+{
+  "name": "test_types-jquery-import-with-dom",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jquery": "3.2.2"
+  }
+}
